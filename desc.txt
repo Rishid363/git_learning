@@ -1,0 +1,17 @@
+# Git and GitHub – Definitions
+
+**Git:**
+
+Git is a distributed Version Control System (VCS) used to track changes in files and source code. It helps developers maintain different versions of a project, compare changes, restore previous versions, and collaborate efficiently. Git works locally on a computer and maintains the history of changes made to a project.
+
+**GitHub:**
+
+GitHub is an online platform used to host Git repositories. It allows developers to store, manage, share, and collaborate on code over the internet. GitHub provides features such as pull requests, issue tracking, project management, and team collaboration. It is widely used to share projects and build a professional coding portfolio.
+
+**Difference Between Git and GitHub:**
+
+Git is a version control tool that tracks changes in code, whereas GitHub is an online platform that hosts Git repositories and helps developers collaborate with others.
+
+**Example:**
+
+A developer can use Git to track changes in a Python project and upload the project to GitHub so that other developers can access and collaborate on it.
