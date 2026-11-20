@@ -1,0 +1,46 @@
+# Basic Git Commands
+
+**1. git init**
+
+Definition: The `git init` command is used to initialize a new Git repository in a project folder. It enables Git to start tracking changes in that folder.
+
+Example:
+`git init`
+
+**2. git status**
+
+Definition: The `git status` command displays the current state of the working directory and staging area. It shows modified, untracked, and staged files.
+
+Example:
+`git status`
+
+**3. git add**
+
+Definition: The `git add` command is used to add new or modified files to the staging area. It prepares changes to be included in the next commit.
+
+Example:
+`git add .`
+
+**4. git commit**
+
+Definition: The `git commit` command saves the staged changes as a snapshot in the Git repository. Each commit has a message describing the changes.
+
+Example:
+`git commit -m "Initial commit"`
+
+**5. git push**
+
+Definition: The `git push` command uploads local commits to a remote repository, such as GitHub. It allows other collaborators to access the latest committed changes.
+
+Example:
+`git push origin main`
+
+**Note:** The `origin` usually refers to the remote repository, and `main` is the branch name.
+
+## Summary
+
+- `git init` – Initialize a repository.
+- `git status` – Check the status of files.
+- `git add` – Stage changes.
+- `git commit` – Save a snapshot of changes.
+- `git push` – Upload commits to a remote repository.
